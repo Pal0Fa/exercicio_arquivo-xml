@@ -1,0 +1,19 @@
+<catalogo>
+    <livro>
+        <titulo>Java Básico</titulo>
+        <autor>Carlos Silva</autor>
+        <preco>59.90</preco>
+    </livro>
+
+    <livro>
+        <titulo>Estruturas de Dados</titulo>
+        <autor>Ana Souza</autor>
+        <preco>75.50</preco>
+    </livro>
+
+    <livro>
+        <titulo>POO com Java</titulo>
+        <autor>Carlos Silva</autor>
+        <preco>89.90</preco>
+    </livro>
+</catalogo>
