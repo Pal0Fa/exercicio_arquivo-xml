@@ -1,0 +1,25 @@
+<cardapio>
+    <produto id="1" categoria="bebida">
+        <nome>ORANGE JOE</nome>
+        <preco>7.50</preco>
+        <disponivel>true</disponivel>
+    </produto>
+
+    <produto id="2" tempoPreparo="30:00" categoria="comida">
+        <nome>TOMATINATOR</nome>
+        <preco>11.99</preco>
+        <disponivel>true</disponivel>
+    </produto>
+
+    <produto id="3" categoria="bebida">
+        <nome>BONK! ATOMIC PUNCH</nome>
+        <preco>2.50</preco>
+        <disponivel>false</disponivel>
+    </produto>
+
+    <produto id="4" categoria="comida" promocao="true">
+        <nome>Crescent Moon Croissant</nome>
+        <preco>9.75</preco>
+        <disponivel>true</disponivel>
+    </produto>
+</cardapio>
