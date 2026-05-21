@@ -98,6 +98,7 @@ public class App {
 
         Element prod4 = doc.createElement("produto");
         prod4.setAttribute("id", "4");
+        prod4.setAttribute("tempoPreparo", "13:00");
         prod4.setAttribute("categoria", "comida");
         prod4.setAttribute("promocao", "true");
         
